@@ -22,7 +22,7 @@ My name is Mohammad Fattahi, and I did my Bachelor's in Mechanical Engineering a
 <p align="left"><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/fluency/48/matlab.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
 
 <br>
-<br>
+<div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoFattahi&theme=midnight-purple&show_icons=true&count_private=true&hide_title=true&hide_border=true&card_width=300&card_height=400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoFattahi&layout=default&theme=midnight-purple&hide=html&hide_border=true&card_width=400&card_height=300)
