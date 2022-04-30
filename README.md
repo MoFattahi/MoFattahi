@@ -24,14 +24,13 @@ My name is Mohammad Fattahi, and I did my Bachelor's in Mechanical Engineering a
 <br>
 <br>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoFattahi&theme=midnight-purple&show_icons=true&count_private=true&hide_title=true&hide_border=true&card_width=400&card_height=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoFattahi&layout=default&theme=midnight-purple&hide=html&hide_border=true&card_width=400&card_height=300)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoFattahi&theme=dark)](https://github.com/tanyagupta0201/github-readme-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoFattahi&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=MoFattahi&show_icons=true&theme=dark" width = 500>
+![github graph](https://activity-graph.herokuapp.com/graph?username=MoFattahi&theme=gotham)
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=MoFattahi&theme=react-dark)
-
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=MoFattahi&theme=dark&hide_border=false" width = 500>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting+My+Profile!!&center=true&color="FF0000")](https://github.com/MoFattahi)
 
