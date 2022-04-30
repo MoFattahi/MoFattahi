@@ -1,11 +1,16 @@
-# MohammadFattahi
-My GitHub Portfolio 
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a  href="https://https://github.com/MoFattahi/">Mohamad Fattahi </a></h1>
+<h3 align="center">Mechanical Engineer | Adventurer </h3>
+<p align="center">
 
-<h1>Hey there, I'm <a  href="https://https://github.com/MoFattahi/">Mohamad Fattahi </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1> Collaboration</h1>
 
 [![linkedin badge](https://img.shields.io/badge/mohamadfattahi-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamadfattahi/)
 [![Gmail Badge](https://img.shields.io/badge/mohamadfattahi20@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mohamadfattahi20@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=MoFattahi&style=plastic" />
+[![Github](https://img.shields.io/github/followers/MoFattahi?label=Follow&style=social)](https://github.com/MoFattahi)
+
+
+<h1> About Me:</h1>
 
 My name is Mohammad Fattahi, and I did my Bachelor's in Mechanical Engineering at K. N. Toosi University of Technology. I like solving problems and coming up with creative solutions. I enjoy challenges and taking risks as long as I can manage the patience to work with a diverse group of people in a dynamic environment. I love exploring new technologies and currently learning new skills. <br>
 
@@ -18,7 +23,7 @@ My name is Mohammad Fattahi, and I did my Bachelor's in Mechanical Engineering a
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/fluency/48/matlab.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
 
 <br>
