@@ -29,12 +29,11 @@ My name is Mohammad Fattahi, and I did my Bachelor's in Mechanical Engineering a
 <br>
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoFattahi&theme=midnight-purple&show_icons=true&count_private=true&hide_title=true&hide_border=true&card_width=300&card_height=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoFattahi&layout=default&theme=midnight-purple&hide=html&hide_border=true&card_width=400&card_height=300)
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoFattahi&theme=nord&show_icons=true&card_width=300&card_height=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoFattahi&layout=default&theme=nord&hide=html&hide_border=true&card_width=400&card_height=300)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoFattahi&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=300&card_height=400)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoFattahi&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=300&card_height=400)
-
-![github graph](https://activity-graph.herokuapp.com/graph?username=MoFattahi&theme=gotham&card_width=300&card_height=400)
+![github graph](https://activity-graph.herokuapp.com/graph?username=MoFattahi&theme=nord&card_width=300&card_height=400)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting+My+Profile!!&center=true&color="FF0000"&card_width=300&card_height=400)](https://github.com/MoFattahi)
