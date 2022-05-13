@@ -30,7 +30,7 @@ My name is Mohammad Fattahi, and I did my Bachelor's in Mechanical Engineering a
 <div align="center">
 
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoFattahi&theme=nord&show_icons=true&card_width=300&card_height=400&align=center)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoFattahi&layout=default&theme=nord&hide=html&hide_border=true&card_width=400&card_height=200&align=center)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoFattahi&layout=default&theme=nord&hide=html&hide_border=true&card_width=400&card_height=300&align=center)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoFattahi&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=300&card_height=400)
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=MoFattahi&theme=nord&card_width=300&card_height=400)
