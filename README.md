@@ -1,13 +1,11 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="3px">, I'm <a  href="https://https://github.com/MoFattahi/">Mohamad Fattahi </a></h1>
-<h3 align="center">Mechanical Engineer | Adventurer </h3>
-<p align="center">
-
-<!-- <h1> Collaboration</h1> -->
-
-[![linkedin badge](https://img.shields.io/badge/mohamadfattahi-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamadfattahi/)
-[![Gmail Badge](https://img.shields.io/badge/mohamadfattahi20@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mohamadfattahi20@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=MoFattahi&style=plastic" />
-[![Github](https://img.shields.io/github/followers/MoFattahi?label=Follow&style=social)](https://github.com/MoFattahi)
+<h1 align="center"> Mohamad Fattahi </h1>
+<h3 align="center">Programmer | Reseacher | Adventurer | Student </h3>
+<p align="Center">
+  
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadfattahi/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohamadfattahi20@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/mohamad.ism/)](https://www.instagram.com/mohamad.ism)
+<img src="https://komarev.com/ghpvc/?username=MoFattahi&style=plastic"/>
 
 
 <h1> About Me:</h1>
@@ -19,7 +17,8 @@ My name is Mohammad Fattahi, and I did my Bachelor's in Mechanical Engineering a
 
 ✅ I am specialized in designing and implementing Machine Learning models. Currently, I conduct research on **human thermal comfort in indoor environments**, **occupant behaviour and productivity**, and **indoor air quality**. I am eagerly looking for **TA/RA opportunities** in the relevant areas where I can put my skills into practice and acquire new ones.
 
-📍 Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
+- 🥦 Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
+- 📫 Feel free to email me at: **mohamadfattahi20@gmail.com**
 
 <br>
 
