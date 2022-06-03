@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a  href="https://https://github.com/MoFattahi/">Mohamad Fattahi </a></h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="3px">, I'm <a  href="https://https://github.com/MoFattahi/">Mohamad Fattahi </a></h1>
 <h3 align="center">Mechanical Engineer | Adventurer </h3>
 <p align="center">
 
