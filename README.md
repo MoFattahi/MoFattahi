@@ -1,7 +1,7 @@
 <h1 align="center"> Mohamad Fattahi </h1>
 <h3 align="center">Programmer | Reseacher | Adventurer | Student </h3>
 <p align="Center">
-  
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadfattahi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohamadfattahi20@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/mohamad.ism/)](https://www.instagram.com/mohamad.ism)
@@ -10,14 +10,14 @@
 
 <h1> About Me:</h1>
 
-My name is Mohammad Fattahi, and I did my Bachelor's in Mechanical Engineering at K. N. Toosi University of Technology. I like solving problems and coming up with creative solutions. I enjoy challenges and taking risks as long as I can manage the patience to work with a diverse group of people in a dynamic environment. I love exploring new technologies and currently learning new skills. <br>
+My name is Mohammad Fattahi, and I did my Bachelor's in Mechanical Engineering at K. N. Toosi University of Technology. I am specialized in **big data analytics**, **transportation system analysis**, and designing and implementing **Machine Learning** models. <br>
 
 
-✅ Teaching is my passion, and I have been involved in many teaching experiences since graduating from high school, including teaching **C++** and **Python** programming languages in university TA classes.
+- ✅ Teaching is my passion, and I have been involved in many teaching experiences since graduating from high school, including teaching **C++** and **Python** programming languages in university TA classes.
 
-✅ I am specialized in designing and implementing Machine Learning models. Currently, I conduct research on **human thermal comfort in indoor environments**, **occupant behaviour and productivity**, and **indoor air quality**. I am eagerly looking for **TA/RA opportunities** in the relevant areas where I can put my skills into practice and acquire new ones.
+- ✅ **Research areas** of interest include:
+Travel behavior analysis | Travel demand modeling | Active Transportation | Transportation Safety | Intelligent transport systems | Data Analysis | Machine Learning
 
-- 🥦 Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 - 📫 Feel free to email me at: **mohamadfattahi20@gmail.com**
 
 <br>
